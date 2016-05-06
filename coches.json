@@ -1,0 +1,79 @@
+{
+    "coches": [
+            {
+                "nombre": "coche_1",
+                "marca": "Ford",
+                "modelo": "Focus",
+                "nombre_conductor": "Pedro Ramos Herrera",
+                "nombre_usuario": "@PRH",
+                "antiguedad": "2 meses",
+		            "viajes_rutina": ["Los Realejos","Santa Cruz de Tenerife"],
+                "otros_viajeros": ["Pablo Guitierrez Méndez","Ana Cabrera López", "Carlos Pérez Afonso"],
+                "zonas_accion": ["Norte"],
+                "valoracion" : "5/10",
+                "opciones":[{
+                  "fumar": ["No"],
+                  "comer": ["Sí"],
+                  "adaptado": ["No"],
+                  "mascotas": ["Sí"]
+                }]
+            },
+            {
+              "nombre": "coche_2",
+              "marca": "Nissan",
+              "modelo": "Qashqai",
+              "nombre_conductor": "Ana Cabrera López",
+              "nombre_usuario": "@Ana",
+              "antiguedad": "6 meses",
+              "viajes_rutina": ["Costa de Adeje","Santa Cruz de Tenerife"],
+              "otros_viajeros": ["Carmen Delgado Ramos","Carlos Pérez Afonso"],
+              "zonas_accion": ["Norte", "Sur"],
+              "valoracion": "9/10",
+              "opciones":[{
+                "fumar": ["Sí"],
+                "comer": ["Sí"],
+                "adaptado": ["No"],
+                "mascotas": ["No"]
+              }]
+
+            },
+			{
+              "nombre": "coche_3",
+              "marca": "Opel",
+              "modelo": "Vivaro",
+              "nombre_conductor": "María Palacios López",
+              "nombre_usuario": "@MaryPalacios",
+              "antiguedad": "8 meses",
+              "viajes_rutina": ["Los Cristianos","Costa de Adeje" ],
+                "otros_viajeros": ["Andrés González Herrera","José Pérez Ramos", "Carmen Delgado Ramos", "Antonio Martín Martín"],
+              "zonas_accion": ["Sur"],
+              "valoracion" : "8/10",
+              "opciones":[{
+                "fumar": ["No"],
+                "comer": ["No"],
+                "adaptado": ["Sí"],
+                "mascotas": ["No"]
+              }]
+
+            },
+			{
+              "nombre": "coche_4",
+              "marca": "Opel",
+              "modelo": "Corsa",
+              "nombre_conductor": "Antonio Martín Martín",
+              "nombre_usuario": "@AntonioMM",
+              "antiguedad": "5 meses",
+              "viajes_rutina": ["San Cristóbal de La Laguna","San Isidro", " Santa Cruz de Tenerife" ],
+              "otros_viajeros": ["Andrés González Herrera","José Pérez Ramos", "Carmen Delgado Ramos", "Antonio Martín Martín"],
+              "zonas_accion": ["Sur","Norte"],
+              "valoracion" : "10/10",
+              "opciones":[{
+                "fumar": ["No"],
+                "comer": ["No"],
+                "adaptado": ["No"],
+                "mascotas": ["No"]
+              }]
+
+            }
+        ]
+}

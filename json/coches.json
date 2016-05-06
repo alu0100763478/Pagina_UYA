@@ -1,0 +1,44 @@
+{
+    "coches": [
+            {
+                "nombre": "coche_1",
+                "marca": "Ford",
+                "modelo": "Focus",
+                "nombre_conductor": "Pedro Ramos Herrera",
+                "antiguedad": "2 meses",
+		            "viaje_rutina": ["Los Realejos","Santa Cruz de Tenerife"],
+                "otros_viajeros": ["Pablo Guitierrez Méndez","Ana Cabrera López", "Carlos Pérez Afonso"],
+                "zonas_accion": ["Norte"]
+            },
+            {
+              "nombre": "coche_2",
+              "marca": "Nissan",
+              "modelo": "Qashqai",
+              "nombre_conductor": "Ana Cabrera López",
+              "antiguedad": "6 meses",
+              "viajes_rutina": ["Costa de Adeje","Santa Cruz de Tenerife"],
+              "otros_viajeros": ["Carmen Delgado Ramos","Carlos Pérez Afonso"],
+              "zonas_accion": ["Norte", "Sur"]
+            },
+			{
+              "nombre": "coche_3",
+              "marca": "Peugeot",
+              "modelo": "108",
+              "nombre_conductor": "María Palacios López",
+              "antiguedad": "8 meses",
+              "viajes_rutina": ["Los Cristianos","Costa de Adeje" ],
+                "otros_viajeros": ["Andrés González Herrera","José Pérez Ramos", "Carmen Delgado Ramos", "Antonio Martín Martín"],
+              "zonas_accion": ["Sur"]
+            },
+			{
+              "nombre": "coche_4",
+              "marca": "Opel",
+              "modelo": "Corsa",
+              "nombre_conductor": "Antonio Martín Martín",
+              "antiguedad": "5 meses",
+              "viajes_rutina": ["San Cristóbal de La Laguna","San Isidro", " Santa Cruz de Tenerife" ],
+              "otros_viajeros": ["Andrés González Herrera","José Pérez Ramos", "Carmen Delgado Ramos", "Antonio Martín Martín"],
+              "zonas_accion": ["Sur","Norte"]
+            }
+        ]
+}

@@ -1,0 +1,60 @@
+.Siguenos{
+  text-align: left;
+}
+
+body
+{
+	background-color: #f4f2f5;
+}
+
+.cabecera
+{
+  background-image: url("cabecera.jpg");
+  text-align: right;
+  height: 50%;
+  padding-top: 11em;
+  padding-right: 5em;
+  color: white;
+}
+
+
+.Copyright{
+  text-align: center;
+}
+
+.formulario
+{
+	height: 300px;
+	font-family: arial;
+	clear: ;
+
+}
+
+.menu
+{
+
+	padding-left: 3em;
+	height: 300px;
+
+
+}
+.redes{
+  text-align: right;
+}
+
+
+.destino
+{
+	padding-bottom: 5%;
+}
+
+h5
+{
+	font-family: thin;
+	font-style: oblique;
+}
+h3
+{
+	font-family: thin;
+	font-style: italic;
+}
