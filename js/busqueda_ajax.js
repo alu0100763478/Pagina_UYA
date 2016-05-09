@@ -5,7 +5,7 @@ function Buscar(){
   $("#lista_destino").empty();
   
     //
-    ajax_url="https://usabilidad-y-accesibilidad-alu0100763478.c9users.io/Pagina_UYA/coches.json"
+    ajax_url="coches.json"
   
     // Creamos un nuevo objeto encargado de la comunicación
     var ajax_peticion = new XMLHttpRequest();
