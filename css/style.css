@@ -26,8 +26,10 @@ body
 {
 	height: 300px;
 	font-family: arial;
-	clear: ;
+}
 
+.caja_formulario{
+ margin: 0 auto;
 }
 
 .menu
