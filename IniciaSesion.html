@@ -41,16 +41,16 @@
   <div class="row caja_formulario">  
     <div class="col s5   card-panel  #ffffff white">
        <div class="formulario">
-          <h5> <strong>¡Registrate y obtén varios beneficios! </strong></h5>
+          <h5 aria-describedby="formulario"> <strong>¡Inicia sesión! </strong></h5>
               <!--Usurio-->
               <div class="input-field col s5 ">
                 <i class="material-icons prefix">account_circle</i>
-                <input id="usuario" type="text" class="inicia_sesion" required>
+                <input id="usuario" type="text" class="inicia_sesion" aria-required="true" required>
                 <label for="nombre">Nombre</label>
               </div>
               <!--Contraseña-->
               <div class="input-field col s5">
-                <input id="pass" type="password" class="inicia_sesion" required>
+                <input id="pass" type="password" class="inicia_sesion" aria-required="true" required>
                 <label for="pass">Contraseña</label>
               </div>
               <!--Botón enviar-->
