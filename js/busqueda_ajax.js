@@ -5,7 +5,7 @@ function Buscar(){
   $("#lista_destino").empty();
   
     //
-    ajax_url="https://github.com/alu0100763478/Pagina_UYA/blob/gh-pages/coches.json"
+    ajax_url="coches.json"
   
     // Creamos un nuevo objeto encargado de la comunicación
     var ajax_peticion = new XMLHttpRequest();
